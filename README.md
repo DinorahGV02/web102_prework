@@ -25,8 +25,8 @@ Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/mZ21bDmh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![Alt Text](https://imgur.com/mZ21bDm.gif)
-
+![Alt Text](https://imgur.com/mZ21bDm)
+GIF created with Kap
 
 ## Notes
 
