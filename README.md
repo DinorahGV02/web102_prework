@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/gallery/rsGP5gX' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
+[img]http://i.imgur.com/mZ21bDmh.gif[/img]
 
 
 
