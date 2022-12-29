@@ -25,6 +25,8 @@ Here's a walkthrough of implemented features:
 
 <img src='//imgur.com/a/rsGP5gX' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/rsGP5gX"  ><a href="//imgur.com/a/rsGP5gX">WEB102 Prework</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 GIF created with Kap 
 
