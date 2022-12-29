@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/DinorahGV02/web102_prework/blob/main/WEB102_Prework_Gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/rsGP5gX' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with Kap 
