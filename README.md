@@ -30,7 +30,7 @@ GIF created with Kap
 ## Notes
 
 Grabbing the total number of cards was challenging.
-
+Gif quality is affected by Github 25MB file size limit.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
