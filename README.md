@@ -24,8 +24,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+Alternative Version:
 <img src='Alternative_Version.gif' title='Video Walkthrough of New Version' width='' alt='Video Walkthrough of Alternative Version' />
 
+Original:
 <img src='walkthrough.gif' title='Video Walkthrough of Original Version for Comparison' width='' alt='Video Walkthrough' />
 
 GIF created with Kap
