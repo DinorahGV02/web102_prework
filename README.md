@@ -1,8 +1,8 @@
-# WEB102 Prework - *WEB102 PREWORK*
+# WEB102 Prework - *Straberry Crowdfunding*
 
 Submitted by: **Dinorah Garcia Vasquez**
 
-**WEB102 PREWORK** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**WEB102 PREWORK Alternative Website Version** is a website with alternative style called "Straberry Crowdfunding" for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **7** hours spent in total
 
