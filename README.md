@@ -19,7 +19,7 @@ The following **optional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
 
-* [x] Alternative style in branch "Alternative-Website-Version"
+* [x] **Alternative style in branch "Alternative-Website-Version"**
 
 ## Video Walkthrough
 
