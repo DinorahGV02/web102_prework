@@ -42,9 +42,9 @@ function addGamesToPage(games) {
        const display = `
        <div class = "games">
        <img src = ${games[i].img} class = "game-img">
-       <b>${games[i].name}</b>
-       <p>${games[i].description}</p>
-       <p>Backers: ${games[i].backers}</p>
+       <b style = "background-color:lightpink;">${games[i].name}</b>
+       <p style = "background-color:lightpink;">${games[i].description}</p>
+       <p style = "background-color:lightpink;">Backers: ${games[i].backers}</p>
        </div>`;
        div.innerHTML = display;
         // append the game to the games-container

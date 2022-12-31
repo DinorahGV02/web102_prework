@@ -1,71 +1,78 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap');
-
+@import url('https://fonts.cdnfonts.com/css/common-pixel');
 body {
     font-family: 'Cabin';
-    background-color: #758190;
+    background-color: #fac1d2;
 }
 
-#tentacles {
+#strawberry {
     width: 50px;
 }
 
 .header {
     display: flex;
-    background-color: lightblue;
+    background-color: rgb(248, 222, 231);
     padding: 1%;
     align-items: center;
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+    font-family: 'Common Pixel', sans-serif;
 }
 
 .stats-container {
     display: flex;
     align-items: auto;
+   
 }
 
-.stats-container:hover {
+/*.stats-container:hover {
     cursor: pointer;
-    box-shadow: 0 0 30px lightblue;
-}
+    box-shadow: 0 0 30px rgb(186, 241, 155);
+}*/
 
 .stats-card {
-    background-color: #a8b0bc;
+    background-color: #f195a5;
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
     width: 100%;
     text-align: center;
+    
 }
 
 #num-contributions, #total-raised, #num-games {
     font-size: 50px;
+    
 }
 
 #games-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    
 }
 
 .game-img {
     width: 100%;
     border-radius: 5px;
-    box-shadow: 0 0 10px #FFFFFF;
+    box-shadow: 0 0 10px #f7b8d5;
 }
 
 .game-card {
-    background-color: #FFFFFF;
+    background-color: #fbe8f3;
     padding: 1%;
     margin: 1%;
     width: 300px;
     text-align: center;
     border-radius: 7px;
+    background: url(assets/strawberrybackground.jpg);
+
 }
 
 .game-card:hover {
     cursor: pointer;
-    box-shadow: 0 0 30px lightblue;
+    box-shadow: 0 0 30px rgb(148, 227, 134);
 }
 
 #button-container {
@@ -73,13 +80,18 @@ body {
 }
 
 button {
+    position: relative;
     font-family: 'Cabin';
     border: none;
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+    background-color: rgb(215, 245, 215);
 }
 button:hover {
     cursor: pointer;
-    box-shadow: 0 0 30px lightblue;
+    box-shadow: 0 0 30px rgb(143, 189, 145);
 }
+
+
+  
