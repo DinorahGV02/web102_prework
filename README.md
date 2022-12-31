@@ -17,7 +17,9 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
+
+* [x] Alternative style in branch "Alternative-Website-Version"
 
 ## Video Walkthrough
 
@@ -31,6 +33,7 @@ GIF created with Kap
 
 Grabbing the total number of cards was challenging.
 Gif quality is affected by Github 25MB file size limit.
+All the files used in the alternative version have their sources/credit at the bottom of the website.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
