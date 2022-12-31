@@ -1,4 +1,4 @@
-# WEB102 Prework - *Straberry Crowdfunding*
+# WEB102 Prework - *Strawberry Crowdfunding*
 
 Submitted by: **Dinorah Garcia Vasquez**
 
